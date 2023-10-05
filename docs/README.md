@@ -69,3 +69,4 @@ output=6
 ```
 output=12
 ```
+![image](https://github.com/viktsv4/geometric_lib/assets/144416635/79c7f289-8cd3-4651-932c-21e148a2edb0)
