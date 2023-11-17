@@ -76,5 +76,5 @@
 |perimeter(2.99,2,3)  |a=2.99,b=2,c=3|Invalid input|Invalid input|
 |perimeter(True,2,3)  |a=True,b=2,c=3|Invalid input|Invalid input|
 |perimeter(299,2,3)  |a=True,b=2,c=3|Invalid input|Invalid input|
-##Хэши комитов
+### Хэши комитов
 <img width="480" alt="image" src="https://github.com/viktsv4/geometric_lib/assets/144416635/d09b7e5c-3df5-4d13-8295-5e7443b87582">
